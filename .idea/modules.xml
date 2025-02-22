@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bulldog.iml" filepath="$PROJECT_DIR$/.idea/Bulldog.iml" />
       <module fileurl="file://$PROJECT_DIR$/BulldogByAI/BulldogByAI.iml" filepath="$PROJECT_DIR$/BulldogByAI/BulldogByAI.iml" />
       <module fileurl="file://$PROJECT_DIR$/BulldogByHuman/BulldogByHuman.iml" filepath="$PROJECT_DIR$/BulldogByHuman/BulldogByHuman.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/BulldogGame.iml" filepath="$PROJECT_DIR$/.idea/BulldogGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BulldogSwingByAI/BulldogSwingByAI.iml" filepath="$PROJECT_DIR$/BulldogSwingByAI/BulldogSwingByAI.iml" />
     </modules>
   </component>
 </project>
